@@ -1,0 +1,15 @@
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\bin\Debug\net5.0\QuanLyBanHang.Common.deps.json
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\bin\Debug\net5.0\QuanLyBanHang.Common.dll
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\bin\Debug\net5.0\QuanLyBanHang.Common.pdb
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.AssemblyInfoInputs.cache
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.AssemblyInfo.cs
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.csproj.CoreCompileInputs.cache
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.dll
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\refint\QuanLyBanHang.Common.dll
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.pdb
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\ref\QuanLyBanHang.Common.dll
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\bin\Debug\net5.0\QuanLyBanHang.Common.runtimeconfig.json
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\bin\Debug\net5.0\QuanLyBanHang.Common.runtimeconfig.dev.json
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.csproj.AssemblyReference.cache
+D:\WebApi2\QuanLyBanHang14\QuanLyBanHang.Common\obj\Debug\net5.0\QuanLyBanHang.Common.genruntimeconfig.cache
